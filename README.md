@@ -1,5 +1,3 @@
-LINE MAN Wongnai Junior 2024 - Machine Learning Engineer
-
 Attachment 
 	- perf_test 
 		- perfomance.ipynb 
