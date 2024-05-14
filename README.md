@@ -7,7 +7,6 @@ Attachment
 	- performance_report
 		- model_perfomance_report.pdf 
 			Test performance of calculating the time of model and algorithm
-			*In this assignment I didn't use the H3 library because there was some problem with installation on Windows on my computer then I used geopy to calculate but it took more many time than we expected, Last I used the simple Harversine algorithm instead.
 		- server_perfomance_report.pdf
 			Test performance of server response time.
 	- conn_db.py
