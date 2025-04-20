@@ -1,23 +1,3 @@
-Attachment 
-	- perf_test 
-		- perfomance.ipynb 
-		- Summary_1.jmx
-		- Summary_2.jmx
-		- View Results Tree.jmx
-	- performance_report
-		- model_perfomance_report.pdf 
-			Test performance of calculating the time of model and algorithm
-		- server_perfomance_report.pdf
-			Test performance of server response time.
-	- conn_db.py
-	- loaddata.py
- 	- requirements.txt
-	- Dockerfile
-	- docker-compose.yml
-	- README.md
-	- request.sql
-	- model.pkl
-
 1. Make sure there is a user.parquet and restaurant.parquet in folder (also model.pkl)
 2. Run docker-compose file using ** docker-compose up -d --build ** in terminal 
 3. In the docker container stop running 'lmwn' container (some problem with the database connection on a docker container)
